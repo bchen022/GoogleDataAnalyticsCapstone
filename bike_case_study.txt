@@ -1,7 +1,8 @@
+## First install and load the packages 
 
-library(tidyverse)
-library(janitor)
-library(skimr)
+library(tidyverse) 
+library(janitor) 
+library(skimr) 
 library(lubridate)
 library(sqldf)
 
